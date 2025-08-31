@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Geometria</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      line-height: 1.5;
+      color: #222;
+      padding: 0 16px;
+    }
+    header { text-align: center; margin-bottom: 20px; }
+    img { display:block; margin: 16px auto; max-width:100%; height:auto; }
+    .video { display:flex; justify-content:center; margin-top:18px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Geometria</h1>
+  </header>
+
+  <p>
+    A geometria estuda formas, posições e medidas das figuras no espaço e no plano.
+    Entender conceitos como ponto, segmento, ângulo e polígono ajuda a resolver problemas práticos e a visualizar situações do dia a dia.
+    Com práticas e exemplos simples fica mais fácil aplicar a geometria em construções, desenhos e medições.
+  </p>
+
+  <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/objetos-usualmente-utilizados-para-medir-formas-geometricas-575ad73548876.jpg" alt="Objetos usados para medir formas geométricas">
+
+  <div class="video">
+    <iframe width="720" height="405"
+            src="https://www.youtube.com/embed/M_gUL7yxl_A"
+            title="Geometria básica: pontos, segmentos e ângulos"
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+    </iframe>
+  </div>
+</body>
+</html>
